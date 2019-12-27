@@ -1,0 +1,38 @@
+{
+    "buttonByColumn": 2,
+    "buttonByLine": 2,
+    "iconSize": 100,
+    "closeTheWindow": 1,
+    "settingsButton": 1,
+    "settingsShortcut": "e",
+    "buttons": {
+        "button4": {
+            "name": "e-lyco",
+            "type": "URL",
+            "path": "https://clg-vieuxcolombier.sarthe.e-lyco.fr/",
+            "shortcut": "l",
+            "iconPath": ""
+        },
+        "button3": {
+            "name": "Mon Blog",
+            "type": "URL",
+            "path": "https://clementsongis.wordpress.com",
+            "shortcut": "b",
+            "iconPath": ""
+        },
+        "button2": {
+            "name": "youtube",
+            "type": "URL",
+            "path": "https://youtube.com",
+            "shortcut": "y",
+            "iconPath": ""
+        },
+        "button1": {
+            "name": "Unity",
+            "type": "Application",
+            "path": "C:/Program Files/Unity/Hub/Editor/2019.2.0f1/Editor/Unity.exe",
+            "shortcut": "u",
+            "iconPath": ""
+        }
+    }
+}
